@@ -1,0 +1,15 @@
+.layout {
+	display: flex;
+	flex-direction: column;
+	min-height: 100vh;
+	z-index: 0;
+}
+.layout_content {
+	flex: 1;
+}
+.warning {
+	display: flex;
+	flex-direction: row;
+	text-align: center;
+	font-size: 20px;
+}

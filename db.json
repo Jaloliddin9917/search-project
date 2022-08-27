@@ -1,0 +1,120 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "contractType": "роцентная став",
+      "dateConclusionContract": "Дата заключения договора",
+      "contractEndDate": "заключения окончания ",
+      "contractCurrency": "Валюта договора",
+      "amountOfDeal": "договора заключ",
+      "interestRace": "Процентная ставка",
+      "agreementStatus": "заключения догора"
+    },
+    {
+      "id": 2,
+      "contractType": "Сумма договора",
+      "dateConclusionContract": "Дата заключения договора",
+      "contractEndDate": "заключения окончания договора",
+      "contractCurrency": "окончания договора",
+      "amountOfDeal": "ставка договора",
+      "interestRace": "Процентная ставка",
+      "agreementStatus": "Вид договора"
+    },
+    {
+      "id": 3,
+      "contractType": "ключени договора",
+      "dateConclusionContract": "Дата заключения договора",
+      "contractEndDate": "договора окончания договора",
+      "contractCurrency": "Процентная заключенияовора",
+      "amountOfDeal": "Сумма договора",
+      "interestRace": "Процентная ставка",
+      "agreementStatus": "Статус договора"
+    },
+    {
+      "id": 4,
+      "contractType": "Статус догговора",
+      "dateConclusionContract": "договора заключения ",
+      "contractEndDate": "договора окончания ",
+      "contractCurrency": "договора договора",
+      "amountOfDeal": "Сумма договора",
+      "interestRace": "договора ставка",
+      "agreementStatus": "Статус заключения"
+    },
+    {
+      "id": 5,
+      "contractType": "Вид договора",
+      "dateConclusionContract": "Дата  договора",
+      "contractEndDate": "Дата окончания договора",
+      "contractCurrency": "Валюта договора",
+      "amountOfDeal": "Сумма договора",
+      "interestRace": "Процентная ставка",
+      "agreementStatus": "Статус договора"
+    },
+    {
+      "id": 6,
+      "contractType": "ставка Дата",
+      "dateConclusionContract": "Дата заключения договора",
+      "contractEndDate": "Дата окончания договора",
+      "contractCurrency": "Валюта договора",
+      "amountOfDeal": "договора договора",
+      "interestRace": "заключения Валюта",
+      "agreementStatus": "договора договора"
+    },
+    {
+      "id": 7,
+      "contractType": "Вид договора",
+      "dateConclusionContract": "Дата заключения договора",
+      "contractEndDate": "Дата окончания договора",
+      "contractCurrency": "Валюта договора",
+      "amountOfDeal": "Сумма договора",
+      "interestRace": "Процентная ставка",
+      "agreementStatus": "Статус договора"
+    },
+    {
+      "id": 8,
+      "contractType": "Вид договора",
+      "dateConclusionContract": "Дата заключения договора",
+      "contractEndDate": "Дата окончания договора",
+      "contractCurrency": "Валюта договора",
+      "amountOfDeal": "Сумма договора",
+      "interestRace": "Процентная ставка",
+      "agreementStatus": "Статус договора"
+    },
+    {
+      "id": 9,
+      "contractType": "Вид договора",
+      "dateConclusionContract": "Дата заключения договора",
+      "contractEndDate": "Дата окончания договора",
+      "contractCurrency": "Валюта договора",
+      "amountOfDeal": "Сумма договора",
+      "interestRace": "Процентная ставка",
+      "agreementStatus": "Статус договора"
+    },
+    {
+      "id": 10,
+      "contractType": "Вид договора",
+      "dateConclusionContract": "Дата заключения договора",
+      "contractEndDate": "Дата окончания договора",
+      "contractCurrency": "Валюта договора",
+      "amountOfDeal": "Сумма договора",
+      "interestRace": "Процентная ставка",
+      "agreementStatus": "Статус договора"
+    },
+    {
+      "id": 11,
+      "contractType": "Вид договора",
+      "dateConclusionContract": "Дата заключения договора",
+      "contractEndDate": "Дата окончания договора",
+      "contractCurrency": "Валюта договора",
+      "amountOfDeal": "Сумма договора",
+      "interestRace": "Процентная ставка",
+      "agreementStatus": "Статус договора"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "jalol"
+    }
+  ]
+}
